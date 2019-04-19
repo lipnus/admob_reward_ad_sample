@@ -3,6 +3,6 @@
 
 참조: [Admob Document](https://developers.google.com/admob/android/quick-start)
 
-코드설명: [선필블로그](https://sunpil.tistory.com/252)
+설명: [선필블로그](https://sunpil.tistory.com/252)
 
 
